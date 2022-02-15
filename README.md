@@ -240,7 +240,7 @@ import { RectangleComponent } from './rectangle/rectangle.component';
 })
 export class AppModule { }
 ## OUTPUT:
-
+![output](https://github.com/Sharmilasha/AngularCalculation/blob/main/w1.png)
 
 
 ## Result:
